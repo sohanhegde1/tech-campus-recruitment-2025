@@ -1,0 +1,5 @@
+2024-12-01 10:00:00 INFO User login successful
+2024-12-01 10:01:23 DEBUG Cache update completed
+2024-12-01 10:05:45 INFO Database connection established
+2024-12-01 10:10:12 WARN High memory usage detected
+2024-12-01 10:15:00 ERROR Failed to process request
